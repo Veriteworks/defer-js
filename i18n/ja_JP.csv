@@ -1,0 +1,10 @@
+Expression,表示
+Add,追加
+MageSuite,MageSuite
+"Defer JS","Defer JS"
+"General Options","一般設定"
+Enabled,有効
+"Exclude Home Page","ホームページ以外"
+"Exclude Controllers","コントローラー以外"
+"Exclude Paths","除外パス"
+"Ignore scripts containing strings","スクリプトを含んだ文字列を無視"
